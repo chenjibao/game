@@ -1,0 +1,15 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第十三天\16超市收银系统\bin\Debug\16超市收银系统.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第十三天\16超市收银系统\bin\Debug\16超市收银系统.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第十三天\16超市收银系统\bin\Debug\16超市收银系统.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第十三天\16超市收银系统\obj\Debug\16超市收银系统.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0505.Net基础班第十三天\16超市收银系统\obj\Debug\16超市收银系统.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第十三天\16超市收银系统\obj\Debug\16超市收银系统.pdb
+G:\2014年Net学科班级资料\14年5月5号基础班\视频\0505.Net基础班第十三天\资料\0505.Net基础班第十三天\16超市收银系统\bin\Debug\16超市收银系统.exe.config
+G:\2014年Net学科班级资料\14年5月5号基础班\视频\0505.Net基础班第十三天\资料\0505.Net基础班第十三天\16超市收银系统\obj\Debug\16超市收银系统.exe
+G:\2014年Net学科班级资料\14年5月5号基础班\视频\0505.Net基础班第十三天\资料\0505.Net基础班第十三天\16超市收银系统\obj\Debug\16超市收银系统.pdb
+G:\2014年Net学科班级资料\14年5月5号基础班\视频\0505.Net基础班第十三天\资料\0505.Net基础班第十三天\16超市收银系统\bin\Debug\16超市收银系统.exe
+G:\2014年Net学科班级资料\14年5月5号基础班\视频\0505.Net基础班第十三天\资料\0505.Net基础班第十三天\16超市收银系统\bin\Debug\16超市收银系统.pdb
+G:\2014年Net学科班级资料\14年5月5号基础班\视频\0505.Net基础班第十三天\资料\0505.Net基础班第十三天\16超市收银系统\obj\Debug\16超市收银系统.csprojResolveAssemblyReference.cache
+E:\学习包\C#和Web开发\（不加密）.Net基础2014（22天）\（不加密）.Net基础2014（22天）\超市收银\资料\资料\0505.Net基础班第十三天\16超市收银系统\bin\Debug\16超市收银系统.exe.config
+E:\学习包\C#和Web开发\（不加密）.Net基础2014（22天）\（不加密）.Net基础2014（22天）\超市收银\资料\资料\0505.Net基础班第十三天\16超市收银系统\obj\Debug\16超市收银系统.exe
+E:\学习包\C#和Web开发\（不加密）.Net基础2014（22天）\（不加密）.Net基础2014（22天）\超市收银\资料\资料\0505.Net基础班第十三天\16超市收银系统\obj\Debug\16超市收银系统.pdb
